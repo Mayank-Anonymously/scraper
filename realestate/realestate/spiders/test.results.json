@@ -1,0 +1,1074 @@
+[
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e2"
+  },
+  "categoryname": "BALA JI DADRI",
+  "result": [
+    {
+      "time": "2025-05-07T22:15:00",
+      "number": "68"
+    }
+  ],
+  "draw_time": "22:15",
+  "yesterday_result": "86",
+  "today_result": "68"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e3"
+  },
+  "categoryname": "JAISALMER",
+  "result": [
+    {
+      "time": "2025-05-07T22:15:00",
+      "number": "93"
+    }
+  ],
+  "draw_time": "22:15",
+  "yesterday_result": "98",
+  "today_result": "93"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e4"
+  },
+  "categoryname": "SANGRUR",
+  "result": [
+    {
+      "time": "2025-05-07T22:10:00",
+      "number": "07"
+    }
+  ],
+  "draw_time": "22:10",
+  "yesterday_result": "32",
+  "today_result": "07"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e5"
+  },
+  "categoryname": "ROYAL SATTA KING",
+  "result": [
+    {
+      "time": "2025-05-07T22:10:00",
+      "number": "--"
+    }
+  ],
+  "draw_time": "22:10",
+  "yesterday_result": "16",
+  "today_result": "--"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e6"
+  },
+  "categoryname": "DELHI SUPER",
+  "result": [
+    {
+      "time": "2025-05-07T22:00:00 ",
+      "number": "88"
+    }
+  ],
+  "draw_time": "22:00 ",
+  "yesterday_result": "73",
+  "today_result": "88"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e7"
+  },
+  "categoryname": "NEW MUMBAI",
+  "result": [
+    {
+      "time": "2025-05-07T22:00:00 ",
+      "number": "--"
+    }
+  ],
+  "draw_time": "22:00 ",
+  "yesterday_result": "80",
+  "today_result": "--"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e8"
+  },
+  "categoryname": "GHAZIABAD",
+  "result": [
+    {
+      "time": "2025-05-07T21:30:00",
+      "number": "65"
+    }
+  ],
+  "draw_time": "21:30",
+  "yesterday_result": "52",
+  "today_result": "65"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90e9"
+  },
+  "categoryname": "JANTA CITY",
+  "result": [
+    {
+      "time": "2025-05-07T21:00:00",
+      "number": "10"
+    }
+  ],
+  "draw_time": "21:00",
+  "yesterday_result": "49",
+  "today_result": "10"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ea"
+  },
+  "raw": [
+    "NEXT GAMES"
+  ]
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90eb"
+  },
+  "categoryname": "GALI PLUS",
+  "result": [
+    {
+      "time": "2025-05-07T23:50:00",
+      "number": "XX"
+    }
+  ],
+  "draw_time": "23:50",
+  "yesterday_result": "83",
+  "today_result": "XX"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ec"
+  },
+  "categoryname": "GALI",
+  "result": [
+    {
+      "time": "2025-05-07T21:30:00",
+      "number": "XX"
+    }
+  ],
+  "draw_time": "21:30",
+  "yesterday_result": "87",
+  "today_result": "XX"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ed"
+  },
+  "categoryname": "NEW GALI",
+  "result": [
+    {
+      "time": "2025-05-07T21:20:00",
+      "number": "XX"
+    }
+  ],
+  "draw_time": "21:20",
+  "yesterday_result": "60",
+  "today_result": "XX"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ee"
+  },
+  "categoryname": "BIKANER SUPER",
+  "result": [
+    {
+      "time": "2025-05-07T02:20:00",
+      "number": "63"
+    }
+  ],
+  "draw_time": "02:20",
+  "yesterday_result": "68",
+  "today_result": "63"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ef"
+  },
+  "categoryname": "RAM BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T01:30:00",
+      "number": "35"
+    }
+  ],
+  "draw_time": "01:30",
+  "yesterday_result": "88",
+  "today_result": "35"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f0"
+  },
+  "raw": [
+    "REST GAMES"
+  ]
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f1"
+  },
+  "categoryname": "DESAWAR",
+  "result": [
+    {
+      "time": "2025-05-07T05:00:00",
+      "number": "34"
+    }
+  ],
+  "draw_time": "05:00",
+  "yesterday_result": "45",
+  "today_result": "34"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f2"
+  },
+  "categoryname": "AFRICA DISAWAR",
+  "result": [
+    {
+      "time": "2025-05-07T05:45:00",
+      "number": "07"
+    }
+  ],
+  "draw_time": "05:45",
+  "yesterday_result": "31",
+  "today_result": "07"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f3"
+  },
+  "categoryname": "HARIOM KADI",
+  "result": [
+    {
+      "time": "2025-05-07T07:15:00",
+      "number": "75"
+    }
+  ],
+  "draw_time": "07:15",
+  "yesterday_result": "36",
+  "today_result": "75"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f4"
+  },
+  "categoryname": "NEW PUNJAB",
+  "result": [
+    {
+      "time": "2025-05-07T11:10:00",
+      "number": "07"
+    }
+  ],
+  "draw_time": "11:10",
+  "yesterday_result": "86",
+  "today_result": "07"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f5"
+  },
+  "categoryname": "JAIPUR KING",
+  "result": [
+    {
+      "time": "2025-05-07T14:00:00",
+      "number": "70"
+    }
+  ],
+  "draw_time": "14:00",
+  "yesterday_result": "08",
+  "today_result": "70"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f6"
+  },
+  "categoryname": "KARACHI GOLDEN",
+  "result": [
+    {
+      "time": "2025-05-07T14:20:00",
+      "number": "22"
+    }
+  ],
+  "draw_time": "14:20",
+  "yesterday_result": "16",
+  "today_result": "22"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f7"
+  },
+  "categoryname": "SUPER KING",
+  "result": [
+    {
+      "time": "2025-05-07T14:45:00",
+      "number": "34"
+    }
+  ],
+  "draw_time": "14:45",
+  "yesterday_result": "89",
+  "today_result": "34"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f8"
+  },
+  "categoryname": "MATKA SONE KA",
+  "result": [
+    {
+      "time": "2025-05-07T14:55:00",
+      "number": "50"
+    }
+  ],
+  "draw_time": "14:55",
+  "yesterday_result": "78",
+  "today_result": "50"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90f9"
+  },
+  "categoryname": "RAJDHANI JAIPUR",
+  "result": [
+    {
+      "time": "2025-05-07T14:00:00",
+      "number": "97"
+    }
+  ],
+  "draw_time": "14:00",
+  "yesterday_result": "44",
+  "today_result": "97"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90fa"
+  },
+  "categoryname": "AGRA BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T14:00:00",
+      "number": "99"
+    }
+  ],
+  "draw_time": "14:00",
+  "yesterday_result": "91",
+  "today_result": "99"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90fb"
+  },
+  "categoryname": "U.P KING",
+  "result": [
+    {
+      "time": "2025-05-07T14:00:00",
+      "number": "97"
+    }
+  ],
+  "draw_time": "14:00",
+  "yesterday_result": "39",
+  "today_result": "97"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90fc"
+  },
+  "categoryname": "BIHAR KING",
+  "result": [
+    {
+      "time": "2025-05-07T14:00:00",
+      "number": "13"
+    }
+  ],
+  "draw_time": "14:00",
+  "yesterday_result": "08",
+  "today_result": "13"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90fd"
+  },
+  "categoryname": "GALI DISAWAR MIX",
+  "result": [
+    {
+      "time": "2025-05-07T14:15:00",
+      "number": "99"
+    }
+  ],
+  "draw_time": "14:15",
+  "yesterday_result": "53",
+  "today_result": "99"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90fe"
+  },
+  "categoryname": "DELHI DREAM",
+  "result": [
+    {
+      "time": "2025-05-07T14:15:00",
+      "number": "85"
+    }
+  ],
+  "draw_time": "14:15",
+  "yesterday_result": "28",
+  "today_result": "85"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf90ff"
+  },
+  "categoryname": "DELHI CITY",
+  "result": [
+    {
+      "time": "2025-05-07T14:15:00",
+      "number": "32"
+    }
+  ],
+  "draw_time": "14:15",
+  "yesterday_result": "74",
+  "today_result": "32"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9100"
+  },
+  "categoryname": "DELHI GATE",
+  "result": [
+    {
+      "time": "2025-05-07T14:20:00",
+      "number": "23"
+    }
+  ],
+  "draw_time": "14:20",
+  "yesterday_result": "31",
+  "today_result": "23"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9101"
+  },
+  "categoryname": "KALKA BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T14:30:00",
+      "number": "18"
+    }
+  ],
+  "draw_time": "14:30",
+  "yesterday_result": "32",
+  "today_result": "18"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9102"
+  },
+  "categoryname": "SAVERA",
+  "result": [
+    {
+      "time": "2025-05-07T14:30:00",
+      "number": "50"
+    }
+  ],
+  "draw_time": "14:30",
+  "yesterday_result": "15",
+  "today_result": "50"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9103"
+  },
+  "categoryname": "MOHALI",
+  "result": [
+    {
+      "time": "2025-05-07T15:00:00",
+      "number": "84"
+    }
+  ],
+  "draw_time": "15:00",
+  "yesterday_result": "47",
+  "today_result": "84"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9104"
+  },
+  "categoryname": "DELHI BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T15:00:00",
+      "number": "44"
+    }
+  ],
+  "draw_time": "15:00",
+  "yesterday_result": "93",
+  "today_result": "44"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9105"
+  },
+  "categoryname": "MEERUT CITY",
+  "result": [
+    {
+      "time": "2025-05-07T15:00:00",
+      "number": "99"
+    }
+  ],
+  "draw_time": "15:00",
+  "yesterday_result": "78",
+  "today_result": "99"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9106"
+  },
+  "categoryname": "MANGAL BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T15:00:00",
+      "number": "77"
+    }
+  ],
+  "draw_time": "15:00",
+  "yesterday_result": "30",
+  "today_result": "77"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9107"
+  },
+  "categoryname": "MEERUT METRO",
+  "result": [
+    {
+      "time": "2025-05-07T15:00:00",
+      "number": "08"
+    }
+  ],
+  "draw_time": "15:00",
+  "yesterday_result": "65",
+  "today_result": "08"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9108"
+  },
+  "categoryname": "ROYAL CHALLENGE",
+  "result": [
+    {
+      "time": "2025-05-07T15:10:00",
+      "number": "31"
+    }
+  ],
+  "draw_time": "15:10",
+  "yesterday_result": "20",
+  "today_result": "31"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9109"
+  },
+  "categoryname": "TAJ",
+  "result": [
+    {
+      "time": "2025-05-07T15:15:00",
+      "number": "--"
+    }
+  ],
+  "draw_time": "15:15",
+  "yesterday_result": "52",
+  "today_result": "--"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910a"
+  },
+  "categoryname": "BADLAPUR",
+  "result": [
+    {
+      "time": "2025-05-07T15:20:00",
+      "number": "39"
+    }
+  ],
+  "draw_time": "15:20",
+  "yesterday_result": "45",
+  "today_result": "39"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910b"
+  },
+  "categoryname": "MAA BHAGWATI",
+  "result": [
+    {
+      "time": "2025-05-07T15:30:00",
+      "number": "73"
+    }
+  ],
+  "draw_time": "15:30",
+  "yesterday_result": "18",
+  "today_result": "73"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910c"
+  },
+  "categoryname": "ANARKALI",
+  "result": [
+    {
+      "time": "2025-05-07T15:30:00",
+      "number": "51"
+    }
+  ],
+  "draw_time": "15:30",
+  "yesterday_result": "49",
+  "today_result": "51"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910d"
+  },
+  "categoryname": "CHAND TARA",
+  "result": [
+    {
+      "time": "2025-05-07T16:00:00",
+      "number": "98"
+    }
+  ],
+  "draw_time": "16:00",
+  "yesterday_result": "12",
+  "today_result": "98"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910e"
+  },
+  "categoryname": "SHIV SHAKTI",
+  "result": [
+    {
+      "time": "2025-05-07T16:05:00",
+      "number": "74"
+    }
+  ],
+  "draw_time": "16:05",
+  "yesterday_result": "07",
+  "today_result": "74"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf910f"
+  },
+  "categoryname": "NEW FARRUKHABAD",
+  "result": [
+    {
+      "time": "2025-05-07T16:20:00",
+      "number": "15"
+    }
+  ],
+  "draw_time": "16:20",
+  "yesterday_result": "76",
+  "today_result": "15"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9110"
+  },
+  "categoryname": "SHRI GANESH",
+  "result": [
+    {
+      "time": "2025-05-07T16:30:00",
+      "number": "19"
+    }
+  ],
+  "draw_time": "16:30",
+  "yesterday_result": "53",
+  "today_result": "19"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9111"
+  },
+  "categoryname": "KHATU SHYAM",
+  "result": [
+    {
+      "time": "2025-05-07T16:30:00",
+      "number": "09"
+    }
+  ],
+  "draw_time": "16:30",
+  "yesterday_result": "41",
+  "today_result": "09"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9112"
+  },
+  "categoryname": "JAMUNA PAAR",
+  "result": [
+    {
+      "time": "2025-05-07T16:30:00",
+      "number": "31"
+    }
+  ],
+  "draw_time": "16:30",
+  "yesterday_result": "68",
+  "today_result": "31"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9113"
+  },
+  "categoryname": "GHAZIABAD DIN",
+  "result": [
+    {
+      "time": "2025-05-07T16:35:00",
+      "number": "57"
+    }
+  ],
+  "draw_time": "16:35",
+  "yesterday_result": "97",
+  "today_result": "57"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9114"
+  },
+  "categoryname": "UTTARAKHAND - UK",
+  "result": [
+    {
+      "time": "2025-05-07T17:10:00",
+      "number": "34"
+    }
+  ],
+  "draw_time": "17:10",
+  "yesterday_result": "00",
+  "today_result": "34"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9115"
+  },
+  "categoryname": "SHREE SHYAM",
+  "result": [
+    {
+      "time": "2025-05-07T17:30:00",
+      "number": "17"
+    }
+  ],
+  "draw_time": "17:30",
+  "yesterday_result": "74",
+  "today_result": "17"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9116"
+  },
+  "categoryname": "FARIDABAD",
+  "result": [
+    {
+      "time": "2025-05-07T16:00:00",
+      "number": "71"
+    }
+  ],
+  "draw_time": "16:00",
+  "yesterday_result": "93",
+  "today_result": "71"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9117"
+  },
+  "categoryname": "RAJDHANI",
+  "result": [
+    {
+      "time": "2025-05-07T16:00:00",
+      "number": "31"
+    }
+  ],
+  "draw_time": "16:00",
+  "yesterday_result": "06",
+  "today_result": "31"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9118"
+  },
+  "categoryname": "AFRICA DISAWAR",
+  "result": [
+    {
+      "time": "2025-05-07T18:45:00",
+      "number": "88"
+    }
+  ],
+  "draw_time": "18:45",
+  "yesterday_result": "74",
+  "today_result": "88"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9119"
+  },
+  "categoryname": "GOLD FARIDABAD",
+  "result": [
+    {
+      "time": "2025-05-07T19:00:00",
+      "number": "56"
+    }
+  ],
+  "draw_time": "19:00",
+  "yesterday_result": "58",
+  "today_result": "56"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911a"
+  },
+  "categoryname": "JAMBO",
+  "result": [
+    {
+      "time": "2025-05-07T19:15:00",
+      "number": "44"
+    }
+  ],
+  "draw_time": "19:15",
+  "yesterday_result": "74",
+  "today_result": "44"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911b"
+  },
+  "categoryname": "NEELKANTH",
+  "result": [
+    {
+      "time": "2025-05-07T19:20:00",
+      "number": "79"
+    }
+  ],
+  "draw_time": "19:20",
+  "yesterday_result": "59",
+  "today_result": "79"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911c"
+  },
+  "categoryname": "GURGAON",
+  "result": [
+    {
+      "time": "2025-05-07T19:30:00",
+      "number": "11"
+    }
+  ],
+  "draw_time": "19:30",
+  "yesterday_result": "22",
+  "today_result": "11"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911d"
+  },
+  "categoryname": "SHRI LAXMI",
+  "result": [
+    {
+      "time": "2025-05-07T19:30:00",
+      "number": "80"
+    }
+  ],
+  "draw_time": "19:30",
+  "yesterday_result": "12",
+  "today_result": "80"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911e"
+  },
+  "categoryname": "PARAS",
+  "result": [
+    {
+      "time": "2025-05-07T19:40:00",
+      "number": "58"
+    }
+  ],
+  "draw_time": "19:40",
+  "yesterday_result": "22",
+  "today_result": "58"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf911f"
+  },
+  "categoryname": "FARIDA BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T19:40:00",
+      "number": "34"
+    }
+  ],
+  "draw_time": "19:40",
+  "yesterday_result": "00",
+  "today_result": "34"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9120"
+  },
+  "categoryname": "DELHI GOLDEN",
+  "result": [
+    {
+      "time": "2025-05-07T19:45:00",
+      "number": "87"
+    }
+  ],
+  "draw_time": "19:45",
+  "yesterday_result": "29",
+  "today_result": "87"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9121"
+  },
+  "categoryname": "DELHI STAR",
+  "result": [
+    {
+      "time": "2025-05-07T19:45:00",
+      "number": "35"
+    }
+  ],
+  "draw_time": "19:45",
+  "yesterday_result": "38",
+  "today_result": "35"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9122"
+  },
+  "categoryname": "OLD FARIDABAD",
+  "result": [
+    {
+      "time": "2025-05-07T19:50:00",
+      "number": "79"
+    }
+  ],
+  "draw_time": "19:50",
+  "yesterday_result": "27",
+  "today_result": "79"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9123"
+  },
+  "categoryname": "DHAN VARSHA",
+  "result": [
+    {
+      "time": "2025-05-07T19:50:00",
+      "number": "62"
+    }
+  ],
+  "draw_time": "19:50",
+  "yesterday_result": "27",
+  "today_result": "62"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9124"
+  },
+  "categoryname": "DHAN KUBER",
+  "result": [
+    {
+      "time": "2025-05-07T19:55:00 ",
+      "number": "17"
+    }
+  ],
+  "draw_time": "19:55 ",
+  "yesterday_result": "22",
+  "today_result": "17"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9125"
+  },
+  "categoryname": "PARIS BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T20:00:00",
+      "number": "40"
+    }
+  ],
+  "draw_time": "20:00",
+  "yesterday_result": "02",
+  "today_result": "40"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9126"
+  },
+  "categoryname": "WHITE GOLD",
+  "result": [
+    {
+      "time": "2025-05-07T20:15:00",
+      "number": "02"
+    }
+  ],
+  "draw_time": "20:15",
+  "yesterday_result": "97",
+  "today_result": "02"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9127"
+  },
+  "categoryname": "DESAWAR EVENING",
+  "result": [
+    {
+      "time": "2025-05-07T20:15:00",
+      "number": "88"
+    }
+  ],
+  "draw_time": "20:15",
+  "yesterday_result": "01",
+  "today_result": "88"
+},
+{
+  "_id": {
+    "$oid": "681d7510d7b87884efaf9128"
+  },
+  "categoryname": "UP BAZAR",
+  "result": [
+    {
+      "time": "2025-05-07T20:30:00",
+      "number": "06"
+    }
+  ],
+  "draw_time": "20:30",
+  "yesterday_result": "06",
+  "today_result": "06"
+},
+{
+  "_id": {
+    "$oid": "681f3bb5a92b43e6855aad18"
+  },
+  "categoryname": "Minisdesawar",
+  "date": "2025-05-09",
+  "result": [
+    {
+      "time": "2025-05-10T11:45:00.000Z",
+      "number": "16"
+    }
+  ],
+  "number": 49,
+  "next_result": "2025-05-10T12:00:00.000Z",
+  "createdAt": {
+    "$date": "2025-05-09T03:39:34.136Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T11:42:12.752Z"
+  },
+  "__v": 0
+}]

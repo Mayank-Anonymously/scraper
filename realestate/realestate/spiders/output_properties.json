@@ -1,0 +1,60 @@
+{
+  "properties": [
+    {
+      "id": "unit_805022",
+      "title": "Clifton Main Mews988 And 1010 Main Avenue",
+      "address": "Clifton, NJ 07011",
+      "description": "1 Bed • 1 Bath • Apartments",
+      "contact": "518‑233‑0300",
+      "price": "$869",
+      "image": "https://www.myhousingsearch.com/graphics/images/grayNoPics.png",
+      "details": {
+        "deposit": "",
+        "waiting_list": "One",
+        "lease": "Utilities",
+        "utilities_included": [
+          "Water",
+          "Sewer",
+          "Trash Pickup"
+        ],
+        "application_fee": "No Application Fee",
+        "background_check_policy": "Background Check Policy",
+        "size": "736",
+        "built": "2017 (approx.)",
+        "features": {
+          "kitchen_appliances": {
+            "microwave": "None |",
+            "refrigerator_freezer": "Freezer On Top |",
+            "clothes_washer": "Stacked Washer / Dryer |",
+            "clothes_dryer": "Stacked Washer / Dryer |",
+            "laundry_room": "On Site |",
+            "other_appliances": [
+              "Dishwasher",
+              "Miniblinds |"
+            ]
+          },
+          "utilities": {
+            "air_conditioner": "Central |",
+            "heating_type": "Electric |",
+            "water_heater": "Electric |",
+            "cable_ready": "Yes |",
+            "high_speed_internet_ready": "Yes |"
+          },
+          "safety_features": [
+            "Smoke Detector",
+            "Carbon Monoxide Detector"
+          ],
+          "accessibility_features": [
+            "Door Knock / Bell Signaler",
+            "Standard Peephole",
+            "Entry Door Intercom",
+            "Deadbolt on Entry Door",
+            "Secured Entry to Building",
+            "Accessible Elevators",
+            "Multi Story Unit"
+          ]
+        }
+      }
+    }
+  ]
+}
